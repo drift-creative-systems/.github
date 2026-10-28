@@ -42,4 +42,4 @@ Interested in testing an early build? Get in touch through the website, we're re
 
 ---
 
-<sub>© 2026 Drift Creative Systems · Devon, UK</sub>
+<sub>© 2026 Drift Creative Systems ltd · Devon, UK</sub>
